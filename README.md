@@ -1,13 +1,14 @@
-# IoC_
+# IOC Container ( Inversion Of Control )
 
-<h1>Dependency Inversion Container / Inversion of Control - Container </h1>
+<h1>Inversion of Control Container ( IOC )</h1>
 
 <p>This is a very basic light weight container. </p>
 
-<p>Instead of installing a full blooded framework to provide a container to handle inversion of control you can use this.<p/>
+<p>Instead of installing a full blooded framework to provide a container to handle inversion of control you can use this light weight very small container.<p/>
 
+<p>
 
-<h1> Description </h1>
+<h2> Description </h2>
 
 <p>To setup the container you must first register all your dependencies. </p>
 
